@@ -1,0 +1,47 @@
+html{
+    color:#2666c6;
+    background-color: #ebebeb;
+    background-image: url("/imagens/wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    font-family: 'Sora', sans-serif;
+}
+hr{
+    width: 50%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: 200;
+}
+  
+li a:hover:not(.active) {
+    background-color: #111;
+}
+  
+.active {
+    background-color: #238f16;
+}
+.imagem_topo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    max-width: 90%;
+}
