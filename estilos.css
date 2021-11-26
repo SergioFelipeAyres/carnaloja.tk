@@ -67,3 +67,18 @@ h2{
     margin-left: 2%;
     margin-right: 2%;
 }
+.fab{
+    text-decoration: none;
+    color:#238f16;
+}
+.fab:hover{
+    text-decoration: none;
+    color:#404040;
+}
+.texto_rodape{
+    color:#238f16;
+}
+.gmap_canvas{
+    margin-left: 30%;
+    position:relative;
+}
