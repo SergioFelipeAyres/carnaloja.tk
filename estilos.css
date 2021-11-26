@@ -1,5 +1,5 @@
 html{
-    color:#2666c6;
+    color:#238f16;
     background-color: #ebebeb;
     background-image: url("/imagens/wallpaper.jpg");
     background-repeat: no-repeat;
@@ -51,7 +51,6 @@ li a:hover:not(.active) {
     background: #fff;
     border-radius: 2px;
     display: table;
-    height: 290px;
     margin: 3rem;
     position: relative;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
@@ -63,4 +62,8 @@ h2{
     font-weight: 700;
 }
 
-
+.texto_card{
+    color:black;
+    margin-left: 2%;
+    margin-right: 2%;
+}
