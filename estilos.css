@@ -38,6 +38,7 @@ li a:hover:not(.active) {
 .active {
     background-color: #238f16;
 }
+
 .imagem_topo{
     display: block;
     margin-left: auto;
@@ -45,3 +46,21 @@ li a:hover:not(.active) {
     width: 600px;
     max-width: 90%;
 }
+
+.card {
+    background: #fff;
+    border-radius: 2px;
+    display: table;
+    height: 290px;
+    margin: 3rem;
+    position: relative;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    width:90%;
+    text-align: center;
+}
+
+h2{
+    font-weight: 700;
+}
+
+
